@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567977682436",
+    "project_id": "info-qa-2328f",
+    "storage_bucket": "info-qa-2328f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567977682436:android:dd4cbf66a10777724a7751",
+        "android_client_info": {
+          "package_name": "com.infoqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567977682436-lpo04kpkva612rlpqgkfiu1ljb55rdon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ46nlAdNbWnf2pcs3F8kXv5IqZNPqLD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567977682436-lpo04kpkva612rlpqgkfiu1ljb55rdon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
